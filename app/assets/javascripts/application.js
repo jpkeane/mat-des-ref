@@ -18,4 +18,6 @@
 //= require jquery.scrollbar/jquery.scrollbar
 //= require jquery-scrollLock/jquery-scrollLock
 //
+//= require autosize/autosize
+//
 //= require wrap/app.min
